@@ -29,10 +29,15 @@ SW BOOT0 A8 3.3V
 [How to play]
 
 Game screen
+
 +-------------------+ 
+
 |      Score      0 | 
+
 | @:_________6391n0 | 
+
 |      Fail  -    0 | 
+
 +-------------------+ 
 
 "@(0-9,n)" Cannon, ":" Final defense line, "0-9" Invaders +1, "n" UFO +10
